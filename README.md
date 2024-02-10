@@ -1,0 +1,2 @@
+# KotlinSQLite
+ SQL Temel komutlar
